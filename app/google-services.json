@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83569778712",
+    "firebase_url": "https://sky-message-22c8b.firebaseio.com",
+    "project_id": "sky-message-22c8b",
+    "storage_bucket": "sky-message-22c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83569778712:android:6581a3915481f137",
+        "android_client_info": {
+          "package_name": "com.example.yaryk.skymessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83569778712-f6hgnvod8ne06adc663ooqgjdpq39ijl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yaryk.skymessage",
+            "certificate_hash": "70b60842ded40dc02baf900cf04152af205d4e27"
+          }
+        },
+        {
+          "client_id": "83569778712-sjqbbbcel6d5f2jpk7ngcc4i02r3ft5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPIsRgtd4wtmjOLTePUQ-0nxtPuzh-Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83569778712-sjqbbbcel6d5f2jpk7ngcc4i02r3ft5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
